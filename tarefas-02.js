@@ -4,3 +4,4 @@ let tarefas = ["Estudar JavaScript", "Fazer exercícios de matemática", "Lavar 
 
 // Removendo a última tarefa 
 tarefas.pop();
+console.log(tarefas);
